@@ -1,0 +1,8 @@
+A set of tools for classifying intrusive behavior using snort, prads, and 
+other tools.
+
+ * bacon.pl: Parses pcap data and uses prads and other utilities to note 
+             intrusive behavior.
+ * loadassets.pl: Loads assets detected by prads into a database.
+ * snort.sh: Runs Snort.
+ * tcpdump.sh: Runs tcpdump.
